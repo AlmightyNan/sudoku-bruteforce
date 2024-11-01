@@ -1,0 +1,17 @@
+{
+  "name": "sudoku-bruteforce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "almightynan <almightynan@apollo-bot.xyz> [https://almightynan.cc]",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "prettytable": "^0.3.1",
+    "table": "^6.8.2"
+  }
+}
