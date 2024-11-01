@@ -226,5 +226,10 @@ async function promptUserChoice() {
     console.log("- Time Complexity: O(n!) in the worst case");
     console.log("- Space Complexity: O(n^2)");
     rl.close();
-    rl.close();
 })();
+
+/**
+ * developed and maintained by almightynan <almightynan@apollo-bot.xyz>.
+ * please review the LICENSE file before modifying or using this code.
+ * skidders can fuck off.
+ */
